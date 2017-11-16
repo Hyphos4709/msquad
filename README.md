@@ -1,0 +1,2 @@
+# msquad
+GitHub Pages
